@@ -1,6 +1,3 @@
-# DDS RF Hemi-Sync
-A whitepaper 
-
 # “Modular DDS-Driven Affect Modulation via Binaural and Isochronic Entrainment”
 
 Technical Report 
