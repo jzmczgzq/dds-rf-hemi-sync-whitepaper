@@ -54,7 +54,11 @@ Mid-frequency (40 Hz gamma-like) arousal pulses
 
 
 Session schemas:
-| Stage  | Wave | Duration | Hypothesis | |-------|------|----------|------------| | Arousal | 40 Hz isochronic  | 5 min | Heightened anxiety, focus  | | Calm | 7 Hz binaural beat + 60 Hz vibration  | 10 min | Relaxation, reduced cortisol  | | Decay | <1 Hz slow pulses  | 5 min | Induces drowsiness, lowered affect  |
+| Stage  | Wave                             | Duration | Hypothesis                          |
+|--------|----------------------------------|----------|-------------------------------------|
+| Arousal| 40 Hz isochronic                | 5 min    | Heightened anxiety, focus           |
+| Calm   | 7 Hz binaural beat + 60 Hz vibration | 10 min   | Relaxation, reduced cortisol        |
+| Decay  | <1 Hz slow pulses                | 5 min    | Induces drowsiness, lowered affect  |
 
 
 
