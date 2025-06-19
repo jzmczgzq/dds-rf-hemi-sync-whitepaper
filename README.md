@@ -98,3 +98,7 @@ Comment:
 ```
 > // “subject reports ear-ringing but calm after 120 s”
 ```
+
+https://www.ebsco.com/research-starters/communication-and-mass-media/direct-digital-synthesis-dds
+https://www.monroeinstitute.org/blogs/free-meditations/hemi-sync-guided-meditation
+https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf
