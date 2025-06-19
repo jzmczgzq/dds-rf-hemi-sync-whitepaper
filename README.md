@@ -1,8 +1,6 @@
 # “Modular DDS-Driven Affect Modulation via Binaural and Isochronic Entrainment”
 
-Technical Report 
-
-Abstract
+## Abstract
 We propose a novel methodology detailing how Direct Digital Synthesis waveform generation can be utilized in conjuction with Short Range RF Exposure (isochronic, and vibroacoustic stimulation) to induce transient emotional states. Leveraging sub-500 Hz rhythms linked to EEG bands (e.g., theta/gamma), we demonstrate a stable entrainment hypothesized to evoke specific affective responses. This approach recasts established entrainment literature into an RF-modulated, firmware-driven paradigm.
 
 ## 1. Introduction
